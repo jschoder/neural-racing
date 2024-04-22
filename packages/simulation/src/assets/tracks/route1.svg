@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3000"
+   height="3000"
+   viewBox="0 0 2250 2250"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="route1.svg"
+   inkscape:export-filename="/home/jschoder/sources/racing/assets/route1.png"
+   inkscape:export-xdpi="64"
+   inkscape:export-ydpi="64"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="pt"
+     showgrid="false"
+     units="px"
+     width="3000px"
+     inkscape:zoom="0.2799099"
+     inkscape:cx="1396.8781"
+     inkscape:cy="1314.7088"
+     inkscape:window-width="1883"
+     inkscape:window-height="1375"
+     inkscape:window-x="677"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.908279px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 798.54229,920.53601 c 130.31768,333.06569 -262.96395,272.07479 -485.8796,339.30009 -389.196067,177.332 -108.01888,1185.6286 423.71951,374.8623 98.84955,-112.165 427.1994,-25.7002 338.3371,139.9839 -57.7461,107.6681 652.4218,350.8637 767.1406,339.1783 278.4441,13.2161 235.315,-239.733 196.5566,-527.7585 -20.9709,-155.8408 -653.4141,-234.3007 -720.4639,-423.665 -33.2979,-94.041 -160.6957,-492.68723 -9.4911,-573.2259 118.3426,-63.03479 445.0882,202.01084 619.9177,224.11906 159.2558,20.13883 172.1325,-202.06744 185.5396,-257.31935 C 2140.6107,446.011 1563.3812,177.49446 1486.5875,145.77086 1317.4173,67.902833 917.99695,214.65909 696.7327,207.48501 416.7341,167.71334 407.14673,374.28929 409.23214,591.49927 449.46723,781.55116 564.66599,845.93051 798.54229,920.53601 Z"
+       id="path1263"
+       sodipodi:nodetypes="cccscssssscccc"
+       inkscape:export-filename="/home/jschoder/sources/racing/route1.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+  </g>
+</svg>

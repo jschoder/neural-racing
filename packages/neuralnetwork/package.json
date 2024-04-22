@@ -1,0 +1,52 @@
+{
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "build": "tsdx build",
+    "dev": "pnpm run build --watch",
+    "test": "jest --verbose --coverage",
+    "test:watch": "jest --verbose --coverage --watch"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "name": "@libs/neuralnetwork",
+  "author": {
+    "name": "Joachim Schoder",
+    "url": "https://jschoder.de"
+  },
+  "module": "dist/neuralnetwork.esm.js",
+  "size-limit": [
+    {
+      "path": "dist/neuralnetwork.cjs.production.min.js",
+      "limit": "10 KB"
+    },
+    {
+      "path": "dist/neuralnetwork.esm.js",
+      "limit": "10 KB"
+    }
+  ],
+  "devDependencies": {
+    "@size-limit/preset-small-lib": "^11.1.2",
+    "@types/lodash": "^4.17.0",
+    "husky": "^9.0.11",
+    "size-limit": "^11.1.2",
+    "tsdx": "^0.14.1",
+    "tslib": "^2.6.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

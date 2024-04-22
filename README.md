@@ -1,2 +1,3 @@
-# neural-racing
-Using neural networks and evolutionary algorithm to drive a racing car
+# Neural Racing
+
+Playground to test out different ways to write a neural network training a car to run around a racing track.
